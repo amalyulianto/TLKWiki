@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TLK Wiki</string>
+    <string name="heroes_name">Warrior\'s Name</string>
+    <string name="detail">Detail</string>
+    <string name="overview">About</string>\
+    <string name="email">kadjiamal@gmail.com</string>
+    <string name="nama">Muhammad Ichlasul Amal Yulianto</string>
+    <string name="asal">Gorontalo</string>
+    <string name="give_me_some_stars">Give me some stars!</string>
+    <string name="gender">Gender</string>
+    <string name="residence">Residence</string>
+    <string name="relatives">Relatives</string>
+    <string name="gallery">Gallery</string>
+    <string name="life_story">Life Story</string>
+    <string name="tesss">tesss</string>
+    <string name="the_last_kingdom">The Last Kingdom</string>
+    <string name="list_characters">List of Main Characters</string>
+    <string name="about_the_series">Series Overview</string>
+    <string name="series_content">The Last Kingdom is a British historical fiction television series based on Bernard Cornwell\'s The Saxon Stories series of novels. The first series of eight episodes premiered on 10 October 2015 on BBC America, and on BBC Two in the UK on 22 October 2015. A second series of eight episodes was aired on BBC Two in the UK in March 2017. Netflix was the sole distributor of the third series of ten episodes, produced by Carnival Films, streamed from 19 November 2018. On 26 December 2018, Netflix renewed the show for a fourth series, released on 26 April 2020 and once again produced by Carnival Films. It was renewed for a fifth series on 7 July 2020.\n\nUhtred of Bebbanburg, a warrior originally a rightful Ealdorman of Bebbanburg, was adopted by a Dane family. Growing up as a Dane, he left the Saxon lifestyle behind. But fate has just made him the Saxons greatest warrior, sworn to Alfred of Wessex, to protect Kingdom of Wessex and uniting England. But in his heart, all he wants is to return to Bebbanburg and rule in his birthplace.</string>
+    <string name="about_developer">About Developer</string>
+    <string name="about_character">About</string>
+</resources>
